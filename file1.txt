@@ -1,1 +1,2 @@
 this is file1
+I updated this file in the branch and will try to merge it. 
